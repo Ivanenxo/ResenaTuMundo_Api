@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9jQwlql4bJ7pyt/V2Q61jS1akmFHNGa7/U5mBXIygNg/fQnhAQCLrzCuNhTe8IB2JnBdjHqJAnP1d2eEXka8lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soportetibaq\\source\\repos\\ReseñaTuMundo_Api\\ReseñaTuMundo_Api.Model\\ReseñaTuMundo_Api.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soportetibaq\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.3\\microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
+    "C:\\Users\\soportetibaq\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.3\\microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\soportetibaq\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.3\\microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "C:\\Users\\soportetibaq\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.3\\microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\soportetibaq\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.3\\system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

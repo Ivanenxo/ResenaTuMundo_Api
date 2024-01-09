@@ -1,0 +1,12 @@
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Model\bin\Debug\net6.0\ReseñaTuMundo_Api.Model.deps.json
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Model\bin\Debug\net6.0\ReseñaTuMundo_Api.Model.dll
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Model\bin\Debug\net6.0\ReseñaTuMundo_Api.Model.pdb
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Model\obj\Debug\net6.0\ReseñaTuMundo_Api.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Model\obj\Debug\net6.0\ReseñaTuMundo_Api.Model.AssemblyInfoInputs.cache
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Model\obj\Debug\net6.0\ReseñaTuMundo_Api.Model.AssemblyInfo.cs
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Model\obj\Debug\net6.0\ReseñaTuMundo_Api.Model.csproj.CoreCompileInputs.cache
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Model\obj\Debug\net6.0\ReseñaTuMundo_Api.Model.dll
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Model\obj\Debug\net6.0\refint\ReseñaTuMundo_Api.Model.dll
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Model\obj\Debug\net6.0\ReseñaTuMundo_Api.Model.pdb
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Model\obj\Debug\net6.0\ref\ReseñaTuMundo_Api.Model.dll
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Model\obj\Debug\net6.0\ReseñaTuMundo_Api.Model.csproj.AssemblyReference.cache

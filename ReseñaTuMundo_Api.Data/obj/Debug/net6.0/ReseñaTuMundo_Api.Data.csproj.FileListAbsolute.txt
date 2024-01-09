@@ -1,0 +1,15 @@
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\bin\Debug\net6.0\ReseñaTuMundo_Api.Data.deps.json
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\bin\Debug\net6.0\ReseñaTuMundo_Api.Data.dll
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\bin\Debug\net6.0\ReseñaTuMundo_Api.Data.pdb
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\bin\Debug\net6.0\ReseñaTuMundo_Api.Model.dll
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\bin\Debug\net6.0\ReseñaTuMundo_Api.Model.pdb
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\ReseñaTuMundo_Api.Data.csproj.AssemblyReference.cache
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\ReseñaTuMundo_Api.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\ReseñaTuMundo_Api.Data.AssemblyInfoInputs.cache
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\ReseñaTuMundo_Api.Data.AssemblyInfo.cs
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\ReseñaTuMundo_Api.Data.csproj.CoreCompileInputs.cache
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\ReseñaTuMundo_Api.Data.csproj.CopyComplete
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\ReseñaTuMundo_Api.Data.dll
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\refint\ReseñaTuMundo_Api.Data.dll
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\ReseñaTuMundo_Api.Data.pdb
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\ref\ReseñaTuMundo_Api.Data.dll
