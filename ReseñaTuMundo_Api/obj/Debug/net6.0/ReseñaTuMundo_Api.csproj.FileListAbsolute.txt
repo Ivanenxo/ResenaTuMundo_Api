@@ -68,3 +68,4 @@ C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api\bin\Deb
 C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api\obj\Debug\net6.0\ReseñaTuMundo_Api.sourcelink.json

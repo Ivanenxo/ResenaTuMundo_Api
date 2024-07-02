@@ -13,3 +13,4 @@ C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\ob
 C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\refint\ReseñaTuMundo_Api.Data.dll
 C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\ReseñaTuMundo_Api.Data.pdb
 C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\ref\ReseñaTuMundo_Api.Data.dll
+C:\Users\soportetibaq\source\repos\ReseñaTuMundo_Api\ReseñaTuMundo_Api.Data\obj\Debug\net6.0\ReseñaTuMundo_Api.Data.sourcelink.json

@@ -87,6 +87,7 @@ namespace ReseñaTuMundo_Api.Controllers
             var claims = new[]
             {
                 new Claim(ClaimTypes.Name, user.Nombre_Usuario),
+                new Claim(ClaimTypes.Email, user.Correo),
                 new Claim(ClaimTypes.NameIdentifier, user.Id_Usuario.ToString()),
                 // Puedes agregar más claims según sea necesario
             };

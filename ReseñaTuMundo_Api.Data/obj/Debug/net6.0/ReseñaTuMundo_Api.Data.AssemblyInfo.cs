@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReseñaTuMundo_Api.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbd3d1448842d9e503565aa8a26fd942ccd473fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReseñaTuMundo_Api.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReseñaTuMundo_Api.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
